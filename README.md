@@ -32,7 +32,7 @@ KOLeXposed provides transparency and actionable insights in the crypto space by 
 ## Official Links
 - **Twitter:** [KOLeXposed on Twitter](https://x.com/kolexposed)
 - **Platform:** [KOLeXposed Platform](https://kolexposed.ai)
-- **Docs:** [KOLeXposed Documentation](https://docs.kolexposed.ai)
+- **Docs:** [KOLeXposed Documentation]([https://docs.kolexposed.ai](https://read.kolexposed.ai/))
 
 ---
 
